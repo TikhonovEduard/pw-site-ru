@@ -1,0 +1,9 @@
+{
+    "file": "site\/modules\/FieldtypeFontIconPicker\/MarkupFontIconPicker.module",
+    "textdomain": "site--modules--fieldtypefonticonpicker--markupfonticonpicker-module",
+    "translations": {
+        "9c67965ac04837d88a8c3f316716dc80": {
+            "text": "\u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c InputFieldIconPicker  \u0434\u043b\u044f \u0432\u044b\u0431\u043e\u0440\u0430 \u0448\u0440\u0438\u0444\u0442\u043e\u0432\u043e\u0439 \u0438\u043a\u043e\u043d\u043a\u0438-\u0437\u043d\u0430\u0447\u043a\u0430."
+        }
+    }
+}

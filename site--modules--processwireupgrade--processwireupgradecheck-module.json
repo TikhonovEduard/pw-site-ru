@@ -1,0 +1,30 @@
+{
+    "file": "site\/modules\/ProcessWireUpgrade\/ProcessWireUpgradeCheck.module",
+    "textdomain": "site--modules--processwireupgrade--processwireupgradecheck-module",
+    "translations": {
+        "04b18c0ac7afa894014866938bd856d4": {
+            "text": "\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u044f\u0434\u0440\u0430 ProcessWire"
+        },
+        "393de78bf85a95a53886232d99820a1c": {
+            "text": "\u0412\u0430\u0448\u0435 \u044f\u0434\u0440\u043e ProcessWire \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u043e"
+        },
+        "7497711b88af126d4b9c4af232b9edb0": {
+            "text": "\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0434\u043b\u044f %s"
+        },
+        "c846f7ac91ff68daa1c144c84bd2e5b3": {
+            "text": "\u0412\u0430\u0448\u0438 \u043c\u043e\u0434\u0443\u043b\u0438 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u044b"
+        },
+        "9b44a8c5e5876b8400e951550c089f31": {
+            "text": "\u041e\u0448\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u0438 \u0434\u0430\u043d\u043d\u044b\u0445 \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u0430 \u043c\u043e\u0434\u0443\u043b\u0435\u0439"
+        },
+        "fa4802a893bc19546fc43bbf1dad7875": {
+            "text": "\u041e\u0448\u0438\u0431\u043a\u0430 \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0432\u0435\u0442\u043e\u043a GitHub"
+        },
+        "567ffb892d40da02f5ed597de39ad682": {
+            "text": "\u041e\u0448\u0438\u0431\u043a\u0430 HTTP:"
+        },
+        "4ad1a107963bcc746173406586cd34e1": {
+            "text": "\u0423\u0431\u0435\u0434\u0438\u0442\u0435\u0441\u044c, \u0447\u0442\u043e HTTP-\u0437\u0430\u043f\u0440\u043e\u0441\u044b \u043d\u0435 \u0437\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u044b \u0432\u0430\u0448\u0438\u043c \u0441\u0435\u0440\u0432\u0435\u0440\u043e\u043c."
+        }
+    }
+}

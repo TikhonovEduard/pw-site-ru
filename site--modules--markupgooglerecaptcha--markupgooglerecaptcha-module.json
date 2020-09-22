@@ -1,0 +1,54 @@
+{
+    "file": "site\/modules\/MarkupGoogleRecaptcha\/MarkupGoogleRecaptcha.module",
+    "textdomain": "site--modules--markupgooglerecaptcha--markupgooglerecaptcha-module",
+    "translations": {
+        "f1ea994757804bda3d14dcb23765bdb6": {
+            "text": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 API Google reCAPTCHA"
+        },
+        "63692bb8f8bdd6577042f274f60f382a": {
+            "text": "\u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0432\u044b\u0448\u0435\u0443\u043a\u0430\u0437\u0430\u043d\u043d\u0443\u044e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e, \u0441\u043e\u0437\u0434\u0430\u0432 \u043a\u043b\u044e\u0447 API \u043f\u043e \u0430\u0434\u0440\u0435\u0441\u0443 [http:\/\/www.google.com\/recaptcha\/admin](http:\/\/www.google.com\/recaptcha\/admin)"
+        },
+        "f75d8fa5c89351544d372cf90528ccf2": {
+            "text": "\u041a\u043b\u044e\u0447 \u0441\u0430\u0439\u0442\u0430"
+        },
+        "952bf87c967660b7bbd4e1eb08cefc92": {
+            "text": "\u0421\u0435\u043a\u0440\u0435\u0442\u043d\u044b\u0439 \u043a\u043b\u044e\u0447"
+        },
+        "49c178c38068a047d3cea6543b2bfa9e": {
+            "text": "\u0420\u0435\u0436\u0438\u043c \u0432\u0438\u0434\u0436\u0435\u0442\u0430"
+        },
+        "3509f1e9fd495c64d66ff4681bb69f91": {
+            "text": "\u0422\u0438\u043f reCaptcha"
+        },
+        "ad17588daa5599bb357fde9101d7e6f2": {
+            "text": "\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0442\u0438\u043f reCaptcha."
+        },
+        "18105af728904890570c3140323c6337": {
+            "text": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u043d\u0435\u0432\u0438\u0434\u0438\u043c\u043e\u0433\u043e \u0432\u0438\u0434\u0436\u0435\u0442\u0430"
+        },
+        "454a5c95c970c24b3d747b01001fd13a": {
+            "text": "\u0417\u043d\u0430\u0447\u043e\u043a"
+        },
+        "e09d5ac74984e354eba7dfc76de618cf": {
+            "text": "\u0420\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0437\u043d\u0430\u0447\u043a\u0430 reCAPTCHA.  'inline'  \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0432\u0430\u043c \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c CSS."
+        },
+        "0d5a79a4583c8bfbbb898cd6516d02c0": {
+            "text": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u0432\u0438\u0434\u0436\u0435\u0442\u0430 reCaptcha V2"
+        },
+        "ecc4af81f871ba78504c5a0fb9076712": {
+            "text": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0442\u0435\u043c\u043d\u0443\u044e \u0442\u0435\u043c\u0443"
+        },
+        "f79dc684b719bb5c938acadc812361a7": {
+            "text": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u043a\u043e\u043c\u043f\u0430\u043a\u0442\u043d\u044b\u0439 \u0432\u0438\u0434\u0436\u0435\u0442"
+        },
+        "790ec73628a3dd5cc9e03d157ca6d9e7": {
+            "text": "\u041e\u0431\u0449\u0438\u0435 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u0432\u0438\u0434\u0436\u0435\u0442\u043e\u0432"
+        },
+        "afe1e0a2260d930edee3e4ffd8ad1fe7": {
+            "text": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0442\u0438\u043f \u0430\u0443\u0434\u0438\u043e"
+        },
+        "4ae08f8b549f69023a8edfd6b7ab8394": {
+            "text": "\u0410\u0442\u0440\u0438\u0431\u0443\u0442 tabindex"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/SearchEngine\/lib\/Renderer.php",
+    "textdomain": "site--modules--searchengine--lib--renderer-php",
+    "translations": {
+        "13348442cc6a27032d2b4aa28b75a5d3": {
+            "text": "\u041f\u043e\u0438\u0441\u043a"
+        },
+        "95bc2a119a5816bb4444b8e9f1beddca": {
+            "text": "\u041d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \u0442\u0435\u043c\u0443 \"%s\"."
+        }
+    }
+}

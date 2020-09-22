@@ -1,0 +1,54 @@
+{
+    "file": "site\/modules\/FieldtypeFontIconPicker\/configs\/IconPicker.fontawesome.php",
+    "textdomain": "site--modules--fieldtypefonticonpicker--configs--iconpicker-fontawesome-php",
+    "translations": {
+        "d517bbf240b80159f77240fffa80bfd8": {
+            "text": "\u0417\u043d\u0430\u0447\u043a\u0438 \u0434\u043b\u044f \u0432\u0435\u0431-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439"
+        },
+        "4c5acb5b8d08e223411d085c75aafcad": {
+            "text": "\u0420\u0443\u043a\u0438"
+        },
+        "94ec004386eae5d56feb57c7fce47731": {
+            "text": "\u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442"
+        },
+        "b55f91ed2ef52d195720cf9c72459467": {
+            "text": "\u0413\u0435\u043d\u0434\u0435\u0440\u043d\u044b\u0435 \u0437\u043d\u0430\u0447\u043a\u0438"
+        },
+        "49060a0f5f9637b515486b0a869f7b7f": {
+            "text": "\u0422\u0438\u043f\u044b \u0444\u0430\u0439\u043b\u043e\u0432"
+        },
+        "90f7abf8524da0ba86feeb490659fa44": {
+            "text": "\u0421\u043f\u0438\u043d\u043d\u0435\u0440\u044b"
+        },
+        "5f41b0c1334d6df3ee5f074e59cf67a0": {
+            "text": "\u0417\u043d\u0430\u0447\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0444\u043e\u0440\u043c\u043e\u0439"
+        },
+        "4273141d8f6987490b0a61ca0cd28faf": {
+            "text": "\u0417\u043d\u0430\u0447\u043a\u0438 \u043f\u043b\u0430\u0442\u0435\u0436\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c"
+        },
+        "d86e119ff607cf0ee63c6435107ee605": {
+            "text": "\u0414\u0438\u0430\u0433\u0440\u0430\u043c\u043c\u044b"
+        },
+        "8a5331d9cb8b63cd694cab3bd4ed23b9": {
+            "text": "\u0417\u043d\u0430\u0447\u043a\u0438 \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0441\u0442\u0438"
+        },
+        "f153f9857d470c56a785dd11f5973e51": {
+            "text": "\u0417\u043d\u0430\u0447\u043a\u0438 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u043e\u0433\u043e \u0440\u0435\u0434\u0430\u043a\u0442\u043e\u0440\u0430"
+        },
+        "cf71147f97959235e4aded17c3e5ea74": {
+            "text": "\u0421\u0442\u0440\u0435\u043b\u043a\u0438"
+        },
+        "b66337303a5c4ba709177b2f64f4d0ee": {
+            "text": "\u0417\u043d\u0430\u0447\u043a\u0438  \u0432\u0438\u0434\u0435\u043e\u043f\u043b\u0435\u0435\u0440\u0430"
+        },
+        "d6ebe4a06f770f4ccb28ae623d768279": {
+            "text": "\u0411\u0440\u0435\u043d\u0434\u044b"
+        },
+        "a62a0374a2f2e302e9dacc8580d05429": {
+            "text": "\u041c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0435 \u0437\u043d\u0430\u0447\u043a\u0438"
+        },
+        "f6616da009a8b39ef4a5f22f1c1847d7": {
+            "text": "\u0412\u0430\u043b\u044e\u0442\u044b"
+        }
+    }
+}

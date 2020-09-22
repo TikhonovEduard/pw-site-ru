@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/FieldtypeFontIconPicker\/FieldtypeFontIconPicker.module",
+    "textdomain": "site--modules--fieldtypefonticonpicker--fieldtypefonticonpicker-module",
+    "translations": {
+        "0f629b3afe42883c75a1404a76be4e8c": {
+            "text": "\u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u043f\u043e\u043b\u0435 \u0432\u0432\u043e\u0434\u0430 \u0432\u044b\u0431\u043e\u0440\u0430 \u0437\u043d\u0430\u0447\u043a\u0430."
+        },
+        "7126a1b1fc43cf6159c107f3022c6001": {
+            "text": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c `glob` \u043c\u0435\u0442\u043e\u0434  \u0434\u043b\u044f \u043f\u043e\u0438\u0441\u043a\u0430 \u0444\u0430\u0439\u043b\u043e\u0432 \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u0438"
+        }
+    }
+}
