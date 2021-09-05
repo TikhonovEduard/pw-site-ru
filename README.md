@@ -15,3 +15,4 @@
 13.  Модуль - [Site Profile Exporter](https://modules.processwire.com/modules/process-export-profile/)
 14.  Модуль - [ProcessWire Upgrade](https://modules.processwire.com/modules/process-wire-upgrade/)
 15.  Модуль - [WireMail: SMTP](https://modules.processwire.com/modules/wire-mail-smtp/)
+15.  Модуль - [Float (Range) InputField](https://processwire.com/modules/inputfield-float-range/)
