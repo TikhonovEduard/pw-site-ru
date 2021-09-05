@@ -1,0 +1,9 @@
+{
+    "file": "site\/modules\/SearchEngine\/lib\/IndexerActions.php",
+    "textdomain": "site--modules--searchengine--lib--indexeractions-php",
+    "translations": {
+        "5ca0a5b86ce44e553982a30c470f76dd": {
+            "text": "\u0412\u0438\u0434\u0435\u0442\u044c  \u0444\u043e\u0440\u043c\u044b FormBuilder \u0438 \u0432\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0442\u044c \u0438\u0445 \u043a\u0430\u043a \u0447\u0430\u0441\u0442\u044c \u043f\u0440\u043e\u0438\u043d\u0434\u0435\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0433\u043e."
+        }
+    }
+}
